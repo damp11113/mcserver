@@ -17,7 +17,7 @@ platform: java + bedrock
 
 ## Server spec
 
-- CPU: intel i3 - 4300M
+- CPU: intel i3 - 4100M
 - Ram: 6 GB (4 + 2)
 - SSD: 250 GB
 - HDD: 250 GB (for backup 50 GB)
