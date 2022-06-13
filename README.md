@@ -20,12 +20,4 @@ platform: java + bedrock
 - CPU: intel i3 - 4100M
 - Ram: 8 GB (4 x 2)
 - SSD: 250 GB
-- HDD: 250 GB (for backup 50 GB)
-
-
-
-
-
-
-
-
+- HDD: 250 GB 
