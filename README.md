@@ -21,3 +21,4 @@ platform: java + bedrock
 - Ram: 8 GB (4 x 2)
 - SSD: 250 GB
 - HDD: 2 TB
+- EHDD: 250 GB + 500 GB + 2TB = 2.75TB
